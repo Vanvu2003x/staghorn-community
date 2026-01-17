@@ -41,9 +41,3 @@ Production-quality guidelines for Claude Code maintained by the staghorn communi
 - Document public APIs
 - Keep README files up to date
 - Write clear inline comments for complex logic
-
----
-
-For language-specific guidelines, see the `languages/` directory.
-For project templates, see the `templates/` directory.
-For reusable commands, see the `commands/` directory.
